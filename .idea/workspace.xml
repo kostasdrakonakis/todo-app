@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="848ebd08-e290-4c83-90ec-7164c5a3ad6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b5hDTXC71L7Pb06ciHn42Z0HnK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../todo-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\whate\Desktop\Repositories\Github\todo-app\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="npm.development">
+    <configuration name="HelloWorld.vue" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/unit/specs/HelloWorld.spec.js" />
+      <test-names>
+        <test-name value="HelloWorld.vue" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Install" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="development" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="e2e tests" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="e2e" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="production" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="test" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="unit tests" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="unit" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.HelloWorld.vue" />
+      <item itemvalue="npm.unit tests" />
+      <item itemvalue="npm.e2e tests" />
+      <item itemvalue="npm.tests" />
+      <item itemvalue="npm.Install" />
+      <item itemvalue="npm.development" />
+      <item itemvalue="npm.production" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.HelloWorld.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="848ebd08-e290-4c83-90ec-7164c5a3ad6b" name="Default Changelist" comment="" />
+      <created>1587927742173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587927742173</updated>
+      <workItem from="1587927745314" duration="1574000" />
+      <workItem from="1588015275282" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3609" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587927929773">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3609" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1587927929773" />
+    <state x="3620" y="454" key="FileChooserDialogImpl" timestamp="1588016600851">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3620" y="454" key="FileChooserDialogImpl/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1588016600851" />
+    <state width="2539" height="371" key="GridCell.Tab.0.bottom" timestamp="1587928112102">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="371" key="GridCell.Tab.0.bottom/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1587928112102" />
+    <state width="2539" height="371" key="GridCell.Tab.0.center" timestamp="1587928112102">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="371" key="GridCell.Tab.0.center/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1587928112102" />
+    <state width="2539" height="371" key="GridCell.Tab.0.left" timestamp="1587928112102">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="371" key="GridCell.Tab.0.left/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1587928112102" />
+    <state width="2539" height="371" key="GridCell.Tab.0.right" timestamp="1587928112102">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="371" key="GridCell.Tab.0.right/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1587928112102" />
+    <state x="3341" y="344" key="SettingsEditor" timestamp="1588015341799">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3341" y="344" key="SettingsEditor/2560.0.2560.1400/0.0.2560.1400@2560.0.2560.1400" timestamp="1588015341799" />
+  </component>
+</project>
